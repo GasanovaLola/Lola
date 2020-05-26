@@ -1,0 +1,20 @@
+.form {
+
+}
+.item-form {
+	width: 460px;
+    height: 45px;
+    border: 1px solid #000000;
+    opacity: 0.1;
+    margin-bottom: 23px;
+}
+.textarea-height {
+	height: 200px;
+}
+input[type="text"]::placeholder { 
+    color: #413d4b;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 300;
+    padding: 0 20px;
+} 

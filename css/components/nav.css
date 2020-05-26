@@ -1,0 +1,21 @@
+.nav {
+	display: inline-block;
+}
+
+.nav-item {
+	display: inline-block;
+	list-style-type: none;
+	color: #fff;
+	text-transform: uppercase;
+	margin-right: 20px;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.nav-item:hero {
+	border-bottom: 1.5px solid #00e0d0;
+}
+
+.is-active {
+	color: #00e0d0;
+}

@@ -1,0 +1,18 @@
+.logo {
+
+}
+
+.logo-img {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.logo-title {
+	display: inline-block;
+	color: #00e0d0;
+	font-family: "Roboto - Thin";
+    font-size: 30px;
+    font-weight: 400;
+    margin: 0 10px;
+    vertical-align: middle;
+}

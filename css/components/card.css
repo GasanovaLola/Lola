@@ -1,0 +1,33 @@
+.card {
+	margin-top: 47px;
+	border: 1px solid #e1e1e1;
+	background-color: transparent;
+	text-align: center;
+}
+
+.card-img {
+	
+}
+
+.title-card {
+	margin-top: 20px;
+	color: #ffffff;
+    font-family: "Roboto - Black";
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.description-card {
+	opacity: 0.7;
+    color: #fafafa;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.card-padding {
+	padding: 10px;
+}
